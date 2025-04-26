@@ -198,10 +198,10 @@ for key, value in default_state.items():
         st.session_state[key] = value
 
 # --- Title & Intro ---
-st.title("📘 Spanish Vocabulary: SPN 1102")
+st.title("📘 Spanish Vocabulary: SPN 1121")
 st.markdown("""
 **Welcome!**  
-This is a study tool for all vocab in SPN 1102 class at SJR state.  
+This is a study tool for all vocab in SPN 1121 class at SJR state.  
 
 - 👉 *Do NOT include accent marks*  
 - 👉 *Assume masculine forms for gendered words*
